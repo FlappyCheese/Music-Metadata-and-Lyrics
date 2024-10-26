@@ -1,3 +1,7 @@
+# Update
+* Updated the README.md
+* Updated requests.txt
+
 # List of changes in the pull request
 * Now instead of putting the token inside a Python file that may be tricky, its as simple as creating an `auth_token.txt` file in the `Source` folder and put in there the token. Make sure you only paste it with no enters.
 
