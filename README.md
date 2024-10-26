@@ -10,7 +10,7 @@ I am completly new to python scripting, so do not know if what I did with the re
 * Reviewed all the scripts within /<your_saved_clone_project>source/ if there where links to specific dependencies within the versions in requirements.txt
 * requirements.txt
   ```
-  **OG requirements.txt**      |  **requirements.txt**  
+  OG requirements.txt      |  requirements.txt 
   ---------------------------------------------
   | unidecode==1.2.0       |  unidecode       |
   | beautifulsoup4==4.9.3  |  beautifulsoup4  |
